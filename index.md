@@ -6,6 +6,12 @@
 ### 个人爱好
 1.[NBA](https://nba.hupu.com){:target="_blank"}
 ![image](https://1751864058.github.io/images/kebi.jpg)
+2.[电影](https://www.yugaopian.cn/){:target="_blank"}
+![image](https://1751864058.github.io/images/jinganglan.jpg)
+3.[游戏](http://pvp.qq.com/){:target="_blank"}
+![image](https://1751864058.github.io/images/wusha.jpg)
+4.[努比亚手机](http://www.nubia.com/cn/){:target="_blank"}
+![image](https://1751864058.github.io/images/shouji.jpg)
 ### 微信小程序开发资源
 1、[微信小程序设置底部导航栏目方法](https://blog.csdn.net/u012118993/article/details/52943783){:target="_blank"} 
 2、[微信小程序之map地图](https://blog.csdn.net/hedong_77/article/details/55189978){:target="_blank"}
