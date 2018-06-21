@@ -8,6 +8,21 @@
 2、[微信小程序之map地图](https://blog.csdn.net/hedong_77/article/details/55189978){:target="_blank"}
 3、[微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}
 4、[微信小程序视频教程](https://pan.baidu.com/s/1kUXxZ0b){:target="_blank"}
+### 在线闯关
+GitHub搭建个人网站
+https://pages.github.com/
+http://blog.csdn.net/wangyj1108/article/details/51444419
+https://www.cnblogs.com/joshtao/articles/6601430.html
+
+
+http://blog.csdn.net/pspgbhu/article/details/51205264
+https://www.zhihu.com/question/24156818
+
+
+
+
+
+https://blog.csdn.net/wangbf_java/article/details/80518213
 
 ### 参考网页
 
