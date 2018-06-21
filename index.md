@@ -18,8 +18,8 @@ JavaScript训练营
 1、教材中的云课堂项目实现
 
 2、查阅资料，调研开源内容管理系统，并选择最优的CMS，实现一个商业级别的网站
-[网址](https://blog.csdn.net/chmask/article/details/7555556){:target="_blank"}
-[网址](https://www.drupal.org){:target="_blank"}
+[网址1](https://blog.csdn.net/chmask/article/details/7555556){:target="_blank"}
+[网址2](https://www.drupal.org){:target="_blank"}
 
 3、校内mooc课程网站
 
