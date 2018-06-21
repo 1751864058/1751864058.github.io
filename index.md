@@ -12,8 +12,8 @@
 在线训练营
 [网址](https://www.freecodecamp.cn){:target="_blank"}
 JavaScript训练营
-[网址](https://www.w3cschool.cn/codecamp/list?pename=basic_javascript_camp){:target="_blank"}
-[网址](https://www.freecodecamp.cn/challenges/comment-your-javascript-code){:target="_blank"}
+[网址1](https://www.w3cschool.cn/codecamp/list?pename=basic_javascript_camp){:target="_blank"}
+[网址2](https://www.freecodecamp.cn/challenges/comment-your-javascript-code){:target="_blank"}
 
 1、教材中的云课堂项目实现
 
@@ -26,18 +26,21 @@ JavaScript训练营
 4、WEB2.0 考证辅导
 ### GitHub搭建个人网站
 GitHub搭建个人网站
-[网址](https://pages.github.com/){:target="_blank"}
-[网址](http://blog.csdn.net/wangyj1108/article/details/51444419){:target="_blank"}
-[网址](https://www.cnblogs.com/joshtao/articles/6601430.html){:target="_blank"}
+[网址1](https://pages.github.com/){:target="_blank"}
+[网址2](http://blog.csdn.net/wangyj1108/article/details/51444419){:target="_blank"}
+[网址3](https://www.cnblogs.com/joshtao/articles/6601430.html){:target="_blank"}
 
 
-[网址](http://blog.csdn.net/pspgbhu/article/details/51205264){:target="_blank"}
-[网址](https://www.zhihu.com/question/24156818){:target="_blank"}
+[网址4](http://blog.csdn.net/pspgbhu/article/details/51205264){:target="_blank"}
+[网址5](https://www.zhihu.com/question/24156818){:target="_blank"}
 
 
 
 
-[网址](https://blog.csdn.net/wangbf_java/article/details/80518213){:target="_blank"}
+[网址6](https://blog.csdn.net/wangbf_java/article/details/80518213){:target="_blank"}
+### 在线学习网站
+1.[慕课网](https://www.imooc.com/){:target="_blank"}
+2.[网易云课堂](http://study.163.com/){:target="_blank"}
 ### 参考网页
 
 1.  如何在github上搭建网站？[查看详细步骤](https://www.cnblogs.com/camille666/p/how_to_build_website_at_github.html/){:target="_blank"},这个文章包含了详细的操作过程，还有域名的解析等
