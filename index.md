@@ -9,6 +9,22 @@
 3、[微信小程序发布流程](https://jingyan.baidu.com/article/fea4511a2e027cf7bb91250c.html ){:target="_blank"}
 4、[微信小程序视频教程](https://pan.baidu.com/s/1kUXxZ0b){:target="_blank"}
 ### 在线闯关
+在线训练营
+https://www.freecodecamp.cn
+JavaScript训练营
+https://www.w3cschool.cn/codecamp/list?pename=basic_javascript_camp
+https://www.freecodecamp.cn/challenges/comment-your-javascript-code
+
+1、教材中的云课堂项目实现
+
+2、查阅资料，调研开源内容管理系统，并选择最优的CMS，实现一个商业级别的网站
+https://blog.csdn.net/chmask/article/details/7555556
+https://www.drupal.org
+
+3、校内mooc课程网站
+
+4、WEB2.0 考证辅导
+### GitHub搭建个人网站
 GitHub搭建个人网站
 https://pages.github.com/
 http://blog.csdn.net/wangyj1108/article/details/51444419
